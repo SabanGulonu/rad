@@ -13,4 +13,11 @@ object Form4: TForm4
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
+  object Label1: TLabel
+    Left = 136
+    Top = 248
+    Width = 31
+    Height = 13
+    Caption = 'Label1'
+  end
 end
