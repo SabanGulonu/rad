@@ -20,4 +20,20 @@ object Form4: TForm4
     Height = 13
     Caption = 'Label1'
   end
+  object cxButton1: TcxButton
+    Left = 118
+    Top = 54
+    Width = 75
+    Height = 25
+    Caption = 'cxButton1'
+    TabOrder = 0
+    OnClick = cxButton1Click
+  end
+  object cxTextEdit1: TcxTextEdit
+    Left = 230
+    Top = 54
+    TabOrder = 1
+    Text = 'cxTextEdit1'
+    Width = 121
+  end
 end
