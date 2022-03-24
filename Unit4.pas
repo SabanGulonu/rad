@@ -8,7 +8,7 @@ uses
 
 type
   TForm4 = class(TForm)
-    Label1: TLabel;
+    Label1: TLabel; //grup çalışması denemesi
   private
     { Private declarations }
   public
