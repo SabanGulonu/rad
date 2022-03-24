@@ -9,6 +9,7 @@ uses
 type
   TForm4 = class(TForm)
     Label1: TLabel; //grup çalışması denemesi
+    //asdasdfaghkjfgasydfas
   private
     { Private declarations }
   public
